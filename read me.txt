@@ -1,0 +1,18 @@
+STUDENT RESULT MANAGEMENT SYSTEM 
+ Admin Login Credentials- username = admin
+			  password = yash
+
+Steps to do :
+
+1) Unzip the SRMS 
+2) Import the Database  with name srms 
+3) Run the peoject with XAMP using Apache Server.
+
+
+Demo  Student Id Details :
+
+Name : Yash Yawale 
+
+Result status : Declared
+
+Rool id: ADT51
