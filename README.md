@@ -20,7 +20,7 @@ Steps to do :
 
 1) Unzip the SRMS 
 2) Import the Database  with name srms 
-3) Run the peoject with XAMP using Apache Server.
+3) Run the project with XAMP using Apache Server.
 
 
 Demo  Student Id Details :
